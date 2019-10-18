@@ -1,7 +1,7 @@
 Morozova Nastia
 
 **My homework:**
-
+<ol>Lesson 1:
 <li>Smashing HTML5! : 
  https://nastiachmel.github.io/homework1/
 <li> Summary https://nastiachmel.github.io/summary/
