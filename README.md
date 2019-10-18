@@ -10,7 +10,7 @@
 <h3>Lesson 2:</h3>
  
  <li>Shopping list: https://nastiachmel.github.io/homework2/
-  <li>Text: https://nastiachmel.github.io/homework2/lesson2.html/
+  <li>Text: https://nastiachmel.github.io/homework2/lesson2.html
   
   <h3>Lesson 3:</h3>
   
@@ -18,4 +18,6 @@
   
   <h3>Lesson 4:</h3>
     
+   <li>Task 01_simple: https://nastiachmel.github.io/homework4/index2.html
    <li>Task 02_hard: https://nastiachmel.github.io/homework4/
+
