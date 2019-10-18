@@ -15,5 +15,7 @@
   <h3>Lesson 3:</h3>
   
   <li> Summary with links to homework: https://nastiachmel.github.io/new_summary/
-   
-        <li>
+  
+  <h3>Lesson 4:</h3>
+    
+   <li>Task 02_hard: https://nastiachmel.github.io/homework4/
