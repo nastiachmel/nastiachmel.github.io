@@ -20,4 +20,8 @@
     
    <li>Task 01_simple: https://nastiachmel.github.io/homework4/index2.html
    <li>Task 02_hard: https://nastiachmel.github.io/homework4/
+    
+   <h3>Lesson 5:</h3>
+   
+   <li>Photoshop."About-me": https://nastiachmel.github.io/homework5/
 
