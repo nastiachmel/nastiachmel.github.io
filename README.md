@@ -24,4 +24,9 @@
    <h3>Lesson 5:</h3>
    
    <li>Photoshop."About-me": https://nastiachmel.github.io/homework5/
+ 
+<h3>Lesson 6:</h3>
+
+<li>Part1: https://nastiachmel.github.io/homework6/
+ <li>Part2.ew shopping list: https://nastiachmel.github.io/homework6/index2.html
 
