@@ -28,5 +28,5 @@
 <h3>Lesson 6:</h3>
 
 <li>Part1: https://nastiachmel.github.io/homework6/
- <li>Part2.ew shopping list: https://nastiachmel.github.io/homework6/index2.html
+ <li>Part2.New shopping list: https://nastiachmel.github.io/homework6/index2.html
 
