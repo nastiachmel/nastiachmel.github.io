@@ -4,7 +4,7 @@
 
 <h3>Lesson 1:</h3>
 
-<li>Smashing HTML5! :  https://nastiachmel.github.io/homework1/
+<li>Smashing HTML5! : <a href=" https://nastiachmel.github.io/homework1/">
 <li>Summary https://nastiachmel.github.io/summary/
  
 <h3>Lesson 2:</h3>
