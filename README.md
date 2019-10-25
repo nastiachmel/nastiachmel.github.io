@@ -34,4 +34,4 @@
 
 <li>Weather : <a href="https://nastiachmel.github.io/homework7/">https://nastiachmel.github.io/homework7</a>
 <li>Part2: <a href="https://nastiachmel.github.io/homework7/part2/index2.html">https://nastiachmel.github.io/homework7/part2/index2.html</a>
-<li>Form: <a href="
+<li>Form: <a href="https://nastiachmel.github.io/homework7/form/index3.html">https://nastiachmel.github.io/homework7/form/index3.html</a>
