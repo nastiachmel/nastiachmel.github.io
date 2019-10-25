@@ -30,3 +30,8 @@
 <li>Part1 : <a href="https://nastiachmel.github.io/homework6/">https://nastiachmel.github.io/homework6</a>
 <li>Part2.New shopping list : <a href="https://nastiachmel.github.io/homework6/index2.html">https://nastiachmel.github.io/homework6/index2.html</a>
 
+<h3>Lesson 7:</h3>
+
+<li>Weather : <a href="https://nastiachmel.github.io/homework7/">https://nastiachmel.github.io/homework7</a>
+<li>Part2: <a href="https://nastiachmel.github.io/homework7/part2/index2.html">https://nastiachmel.github.io/homework7/part2/index2.html</a>
+<li>Form: <a href="
