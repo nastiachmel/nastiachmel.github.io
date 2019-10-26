@@ -36,7 +36,7 @@
 <li>Part2: <a href="https://nastiachmel.github.io/homework7/part2/index2.html">https://nastiachmel.github.io/homework7/part2/index2.html</a>
 <li>Form: <a href="https://nastiachmel.github.io/homework7/form/index3.html">https://nastiachmel.github.io/homework7/form/index3.html</a>
  
- <h3>Lesson 8:</a>
+ <h3>Lesson 8:</h3>
  
  <li>Coffee : <a href="https://nastiachmel.github.io/homework8/">https://nastiachmel.github.io/homework8/</a>
- <li> Design: <a href="https://nastiachmel.github.io/homework8/design/index.html">https://nastiachmel.github.io/homework8/design/index.html</a>
+ <li>Design: <a href="https://nastiachmel.github.io/homework8/design/index.html">https://nastiachmel.github.io/homework8/design/index.html</a>
