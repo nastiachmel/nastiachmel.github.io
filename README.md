@@ -40,3 +40,8 @@
  
  <li>Coffee : <a href="https://nastiachmel.github.io/homework8/">https://nastiachmel.github.io/homework8/</a>
  <li>Design: <a href="https://nastiachmel.github.io/homework8/design/index.html">https://nastiachmel.github.io/homework8/design/index.html</a>
+  
+  <h3>Lesson 9:</h3>
+  
+  <li>Text1: <a href="https://nastiachmel.github.io/homework9/text1/index.html">https://nastiachmel.github.io/homework9/text1/index.html</a>
+ <li>Text2: <a href="https://nastiachmel.github.io/homework9/text2/index.html">https://nastiachmel.github.io/homework9/text2/index.html</a>
