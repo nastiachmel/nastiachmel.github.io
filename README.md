@@ -45,3 +45,8 @@
   
   <li>Text1: <a href="https://nastiachmel.github.io/homework9/text1/index.html">https://nastiachmel.github.io/homework9/text1/index.html</a>
  <li>Text2: <a href="https://nastiachmel.github.io/homework9/text2/index.html">https://nastiachmel.github.io/homework9/text2/index.html</a>
+  
+   <h3>Lesson 10:</h3>
+  
+  <li>Task1: <a href="https://nastiachmel.github.io/homework10/task1/index.html">https://nastiachmel.github.io/homework10/task1/index.html</a>
+   <li>Task2: <a href="https://nastiachmel.github.io/homework10/task2/index.html">https://nastiachmel.github.io/homework10/task2/index.html</a>
