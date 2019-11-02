@@ -50,3 +50,10 @@
   
   <li>Task1: <a href="https://nastiachmel.github.io/homework10/task1/index.html">https://nastiachmel.github.io/homework10/task1/index.html</a>
    <li>Task2: <a href="https://nastiachmel.github.io/homework10/task2/index.html">https://nastiachmel.github.io/homework10/task2/index.html</a>
+    
+  <h3>Lesson 11:</h3>
+
+<li>Part1 : <a href="https://nastiachmel.github.io/homework11/l11/index.html">https://nastiachmel.github.io/homework11/l11/index.html</a>
+<li>Part2 : <a href="https://nastiachmel.github.io/homework11/part1/index.html">https://nastiachmel.github.io/homework11/part1/index.html</a>
+
+    
