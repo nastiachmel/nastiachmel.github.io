@@ -56,4 +56,9 @@
 <li>Part1 : <a href="https://nastiachmel.github.io/homework11/l11/index.html">https://nastiachmel.github.io/homework11/l11/index.html</a>
 <li>Part2 : <a href="https://nastiachmel.github.io/homework11/part1/index.html">https://nastiachmel.github.io/homework11/part1/index.html</a>
 
+ <h3>Lesson 12:</h3>
+
+<li>Form-registration : <a href="https://nastiachmel.github.io/homework12/form2/index.html">https://nastiachmel.github.io/homework12/form2/index.html</a>
+<li>Form2 : <a href="https://nastiachmel.github.io/homework12/example/index.html">https://nastiachmel.github.io/homework12/example/index.html</a>
+
     
