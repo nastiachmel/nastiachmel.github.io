@@ -63,4 +63,4 @@
 
   <h3>Lesson 13:</h3>
 
-<li>Form-registration : <a href="https://nastiachmel.github.io/homework13/example/index.html">https://nastiachmel.github.io/homework13/example/index.html</a>
+<li>Working with design lab : <a href="https://nastiachmel.github.io/homework13/example/index.html">https://nastiachmel.github.io/homework13/example/index.html</a>
