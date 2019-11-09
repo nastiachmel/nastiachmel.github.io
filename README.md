@@ -64,3 +64,7 @@
   <h3>Lesson 13:</h3>
 
 <li>Working with design lab : <a href="https://nastiachmel.github.io/homework13/example/index.html">https://nastiachmel.github.io/homework13/example/index.html</a>
+
+<h3>Lesson 14:</h3>
+
+<li>Part1 : <a href="https://nastiachmel.github.io/homework14/">https://nastiachmel.github.io/homework14/</a>
