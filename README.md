@@ -75,3 +75,10 @@
 
 
 <li>Part1: <a href="https://nastiachmel.github.io/homework15/example/index.html">https://nastiachmel.github.io/homework15/example/index.html</a>
+
+
+ <h3>Lesson 16:</h3>
+
+<li>Menu : <a href="https://nastiachmel.github.io/homework16/test/index.html">https://nastiachmel.github.io/homework16/test/index.html</a>
+<li>Menu2 : <a href="https://nastiachmel.github.io/homework16/test2/index.html"https://nastiachmel.github.io/homework16/test2/index.html</a>
+<li>Menu3 : <a href="https://nastiachmel.github.io/homework16/part1/index.html"https://nastiachmel.github.io/homework16/part1/index.html</a>
