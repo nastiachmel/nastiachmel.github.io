@@ -84,5 +84,4 @@
 
  <h3>Lesson 17:</h3>
 
-<li>Adaptive graphics: <a href="
-https://nastiachmel.github.io/homework17/test2/index.html">https://nastiachmel.github.io/homework17/test2/index.html</a>
+<li>Adaptive graphics : <a href="https://nastiachmel.github.io/homework17/test2/index.html">https://nastiachmel.github.io/homework17/test2/index.html</a>
