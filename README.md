@@ -85,3 +85,7 @@
  <h3>Lesson 17:</h3>
 
 <li>Adaptive graphics : <a href="https://nastiachmel.github.io/homework17/test2/index.html">https://nastiachmel.github.io/homework17/test2/index.html</a>
+
+<h3>Lesson 19:</h3>
+
+<li>Pricing : <a href="https://nastiachmel.github.io/homework19/index.html">https://nastiachmel.github.io/homework19/index.html</a>
