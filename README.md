@@ -89,3 +89,10 @@
 <h3>Lesson 19:</h3>
 
 <li>Pricing : <a href="https://nastiachmel.github.io/homework19/index.html">https://nastiachmel.github.io/homework19/index.html</a>
+
+<h2>JS</h2>
+
+
+<h3>Lesson 1:</h3>
+
+<li>JS basics : <a href="https://nastiachmel.github.io/js1/index.html">https://nastiachmel.github.io/js1/index.html</a>
