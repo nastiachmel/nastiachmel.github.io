@@ -96,3 +96,8 @@
 <h3>Lesson 1:</h3>
 
 <li>JS basics : <a href="https://nastiachmel.github.io/js1/index.html">https://nastiachmel.github.io/js1/index.html</a>
+
+
+<h3>Lesson 2:</h3>
+
+<li>Operators: <a href="https://nastiachmel.github.io/js2/index.html">https://nastiachmel.github.io/js2/index.html</a>
