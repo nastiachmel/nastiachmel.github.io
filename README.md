@@ -101,3 +101,8 @@
 <h3>Lesson 2:</h3>
 
 <li>Operators: <a href="https://nastiachmel.github.io/js2/index.html">https://nastiachmel.github.io/js2/index.html</a>
+
+
+<h3>Lesson 3:</h3>
+
+<li>Cycles: <a href="https://nastiachmel.github.io/js3/index.html">https://nastiachmel.github.io/js3/index.html</a>
