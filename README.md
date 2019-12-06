@@ -106,3 +106,7 @@
 <h3>Lesson 3:</h3>
 
 <li>Cycles: <a href="https://nastiachmel.github.io/js3/index.html">https://nastiachmel.github.io/js3/index.html</a>
+ 
+<h3>Lesson 4:</h3>
+
+<li>Function: <a href="https://nastiachmel.github.io/js4/index.html">https://nastiachmel.github.io/js4/index.html</a>
