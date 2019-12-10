@@ -114,4 +114,8 @@
  <h3>Lesson 5:</h3>
 
 <li>Objects: <a href="https://nastiachmel.github.io/js5/">https://nastiachmel.github.io/js5/</a>
+ 
+ <h3>Lesson 6:</h3>
+
+<li>Array: <a href="https://nastiachmel.github.io/js6/">https://nastiachmel.github.io/js6/</a>
 
