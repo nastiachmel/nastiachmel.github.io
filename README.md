@@ -118,4 +118,10 @@
  <h3>Lesson 6:</h3>
 
 <li>Array: <a href="https://nastiachmel.github.io/js6/">https://nastiachmel.github.io/js6/</a>
+ 
+  <h3>Lesson 7:</h3>
+
+<li>DOM: <a href="https://nastiachmel.github.io/lesson8/">https://nastiachmel.github.io/lesson8/</a>
+ 
+ 
 
