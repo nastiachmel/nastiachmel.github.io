@@ -121,7 +121,7 @@
  
   <h3>Lesson 7:</h3>
 
-<li>DOM: <a href="https://nastiachmel.github.io/lesson8/">https://nastiachmel.github.io/lesson8/</a>
+<li>Event: <a href="https://nastiachmel.github.io/lesson8/">https://nastiachmel.github.io/lesson8/</a>
  
  
 
