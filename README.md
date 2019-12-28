@@ -123,5 +123,9 @@
 
 <li>Event: <a href="https://nastiachmel.github.io/lesson8/">https://nastiachmel.github.io/lesson8/</a>
  
+  <h3>Lesson 8:</h3>
+
+<li>Accordion : <a href="https://nastiachmel.github.io/js9/accordeon/">https://nastiachmel.github.io/js9/accordeon/</a>
+ <li>Calc.: <a href="https://nastiachmel.github.io/js9/calculatorJQuery/">https://nastiachmel.github.io/js9/calculatorJQuery/</a>
  
 
