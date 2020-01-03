@@ -128,4 +128,8 @@
 <li>Accordion : <a href="https://nastiachmel.github.io/js9/accordeon/">https://nastiachmel.github.io/js9/accordeon/</a>
  <li>Calc.: <a href="https://nastiachmel.github.io/js9/calculatorJQuery/">https://nastiachmel.github.io/js9/calculatorJQuery/</a>
  
+  <h3>Lesson 9:</h3>
 
+<li>AJAX : <a href="https://nastiachmel.github.io/js10/ajax/">https://nastiachmel.github.io/js10/ajax/</a>
+ <li>FarCry: <a href="https://nastiachmel.github.io/js10/farcry/">https://nastiachmel.github.io/js10/farcry/</a>
+ 
