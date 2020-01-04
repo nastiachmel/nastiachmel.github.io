@@ -133,3 +133,6 @@
 <li>AJAX : <a href="https://nastiachmel.github.io/js10/ajax/">https://nastiachmel.github.io/js10/ajax/</a>
  <li>FarCry: <a href="https://nastiachmel.github.io/js10/farcry/">https://nastiachmel.github.io/js10/farcry/</a>
  
+ <h3>Lesson 10:</h3>
+
+<li>Slider : <a href="https://nastiachmel.github.io/js11/index.html">https://nastiachmel.github.io/js11/index.html</a>
