@@ -136,3 +136,7 @@
  <h3>Lesson 10:</h3>
 
 <li>Slider : <a href="https://nastiachmel.github.io/js11/index.html">https://nastiachmel.github.io/js11/index.html</a>
+
+ <h3>Lesson 11:</h3>
+
+<li>Web Storage : <a href=https://nastiachmel.github.io/webStorage/index.html">https://nastiachmel.github.io/webStorage/index.html</a>
