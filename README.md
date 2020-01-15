@@ -143,4 +143,4 @@
 
  <h3>Lesson 12:</h3>
 
-<li>Web Storage : <a href="https://nastiachmel.github.io/grid/">https://nastiachmel.github.io/grid/</a>
+<li>Grid: <a href="https://nastiachmel.github.io/grid/">https://nastiachmel.github.io/grid/</a>
